@@ -1,0 +1,1 @@
+{"name":"libgit2","vers":"0.0.2","deps":["libssh2-static-sys||*","link-config||*","openssl-static-sys||*"],"cksum":"b34ba5228f660a9cb04fee0638b3af8fe26dc50f4c8a0d537bcda94e35e84453","features":{}}
