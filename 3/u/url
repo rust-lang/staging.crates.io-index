@@ -1,1 +1,2 @@
 {"name":"url","vers":"0.3.0","deps":["encoding||>= 0.2.0"],"cksum":"e3f961a0e196d9fd0f25c9c4247deb5021783bbed0a563ceefea44b5ff869c5d","features":{}}
+{"name":"url","vers":"0.4.0","deps":["encoding||*"],"cksum":"a53e5bc75fa3b9919f0db9e813c6f9088ac0267d0633acea612ddb2741360c2f","features":{}}
