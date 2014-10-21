@@ -1,4 +1,4 @@
 {
-  "dl": "https://cargo-website-dev.herokuapp.com/crates",
-  "upload": "https://cargo-website-dev.herokuapp.com/crates/new"
+  "dl": "https://staging-crates-io.herokuapp.com/crates",
+  "upload": "https://staging-crates-io.herokuapp.com/crates/new"
 }
