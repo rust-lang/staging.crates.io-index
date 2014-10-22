@@ -1,3 +1,3 @@
-{"name":"encoding","vers":"0.2.0","deps":[],"cksum":"cbb857822ce110ad74ebe8cefbb6bceefe65316861032ae105408e0d3692e99d","features":{}}
+{"name":"encoding","vers":"0.2.0","deps":[],"cksum":"cbb857822ce110ad74ebe8cefbb6bceefe65316861032ae105408e0d3692e99d","features":{},"yanked":true}
 {"name":"encoding","vers":"0.1.0","deps":[],"cksum":"0959b6aaeaae7b41f118e688cfe797e5ca6f99931821f78502dda70a151a3963","features":{},"yanked":false}
 {"name":"encoding","vers":"0.3.0","deps":[],"cksum":"7f397ba542f3c4c98fc2afc41c4cc34dec4588b421e4248732bb75dc2652628f","features":{},"yanked":false}
