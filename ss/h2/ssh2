@@ -1,0 +1,1 @@
+{"name":"ssh2","vers":"0.0.1","deps":[{"name":"libssh2-sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"a723cdf2083cc8b028880b5de42e230b5f495d1f4876f908b04b6fb601e02238","features":{},"yanked":false}
