@@ -1,1 +1,0 @@
-{"name":"git2","vers":"0.0.2","deps":["libgit2||>= 0.0.2","url||>= 0.4.0"],"cksum":"6a6f292ea1956f73f5241ba2b9f6b2a1db50e9105c8666646826c36464d5069a","features":{}}
