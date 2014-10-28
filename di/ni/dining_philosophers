@@ -1,1 +1,2 @@
 {"name":"dining_philosophers","vers":"0.0.1","deps":[],"cksum":"60a100ea52f830445956f3448fbf7dd463886ce9af442d6a3f6892be5288d0e2","features":{},"yanked":false}
+{"name":"dining_philosophers","vers":"1.0.0","deps":[],"cksum":"f779ba043306a83a695df528f7b87316fb3acdf10807ae65b66629faea62af9e","features":{},"yanked":false}
