@@ -3,3 +3,4 @@
 {"name":"tar","vers":"0.0.1","deps":[],"cksum":"22223f378688bc1e53eeeab7bbb816efe693067895ba0b11052454b52ab6cc49","features":{},"yanked":false}
 
 {"name":"tar","vers":"0.0.8","deps":[],"cksum":"c0fe71f38fce9c9620ac833da08ca40b307e7e3ba63463ed194c50afab8fd3be","features":{},"yanked":false}
+{"name":"tar","vers":"0.0.5","deps":[],"cksum":"03a58e5fb28dfa58a56c965ce395b8e44bda41d4f242a6de71ad6894b575fadf","features":{},"yanked":false}
