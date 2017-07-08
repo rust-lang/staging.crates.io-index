@@ -1,5 +1,5 @@
 {"name":"has-many-versions","vers":"0.1.0","deps":[],"cksum":"3d8063ef5373c5c0cc6d3dc2b4ad7a74de618a4bb89d49c0a5366d5445ff7bff","features":{},"yanked":false}
-{"name":"has-many-versions","vers":"0.1.1","deps":[],"cksum":"d5829d4165f00574beabf583278d991d83cef948ec40daaaf05f89512d8e4581","features":{},"yanked":false}
+{"name":"has-many-versions","vers":"0.1.1","deps":[],"cksum":"d5829d4165f00574beabf583278d991d83cef948ec40daaaf05f89512d8e4581","features":{},"yanked":true}
 {"name":"has-many-versions","vers":"0.2.0","deps":[],"cksum":"98cca52064a155c0ee2dc251f2e589ffcae1e6d27dfae64bfff7d75967bdc7fe","features":{},"yanked":false}
 {"name":"has-many-versions","vers":"0.2.5","deps":[],"cksum":"b81c26b1259dc2a5f5133332d06b407e55c1ad2f0cbe261621012c8816366b9d","features":{},"yanked":false}
 {"name":"has-many-versions","vers":"0.1.2","deps":[],"cksum":"a305e29db03c78a58fd08b3b935870c906f90750b8ce9c176b7f9b93abe24a3d","features":{},"yanked":false}
