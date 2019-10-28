@@ -1,4 +1,4 @@
 {
-  "dl": "https://staging-crates-io.herokuapp.com/api/v1/crates",
-  "api": "https://staging-crates-io.herokuapp.com/"
+  "dl": "https://staging.cratesio.com/api/v1/crates",
+  "api": "https://staging.cratesio.com/"
 }
