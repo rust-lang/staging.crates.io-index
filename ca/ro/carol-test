@@ -22,3 +22,4 @@
 {"name":"carol-test","vers":"1.0.24","deps":[],"cksum":"54d94ae6d576fe524763bc549e637d8a18e8e38c32bc145eed6c41a5568f78a4","features":{},"yanked":false,"links":null}
 {"name":"carol-test","vers":"1.0.25","deps":[],"cksum":"d028342628009274de7d144fbe638b3be881c8cbc69938a80c3cdbb05fd4e2ae","features":{},"yanked":false,"links":null}
 {"name":"carol-test","vers":"1.0.26","deps":[],"cksum":"c241cd77c3723ccf1aa453f169ee60c0a888344da504bee0142adb859092acb4","features":{},"yanked":false,"links":null}
+{"name":"carol-test","vers":"0.3.6","deps":[],"cksum":"32e69a15079e49e6ad9e6973864142bb4beed32d021acb9dd9b025cc23d591fb","features":{},"yanked":false,"links":null}
