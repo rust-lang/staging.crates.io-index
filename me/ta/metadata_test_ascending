@@ -1,2 +1,3 @@
 {"name":"metadata_test_ascending","vers":"0.1.0","deps":[],"cksum":"7bbeaf12d4ac3f112c66f27c63b057331f8a7a59b5eb954eee80da259a67aac9","features":{},"yanked":false,"links":null}
 {"name":"metadata_test_ascending","vers":"0.1.0+post1","deps":[],"cksum":"222729db65e7fa74656520028450597ca4a016326243632e3c5aa8eb76e44061","features":{},"yanked":false,"links":null}
+{"name":"metadata_test_ascending","vers":"0.1.0+post2","deps":[],"cksum":"a2a4a0f3fab7b6e775321bb5785325d118f91281379201bda430039db0dd33b4","features":{},"yanked":false,"links":null}
