@@ -1,1 +1,2 @@
 {"name":"foo","vers":"0.0.1","deps":[],"cksum":"1272ed93ce5bdd7c256d4d70566b6e3a9fb43932c030a95751231c6b5c015cb9","features":{},"yanked":false}
+{"name":"foo","vers":"0.3.0","deps":[],"cksum":"22cd464ac3c4263c5b1c833a9ce21cbe1ccfd4302d6db46eaa20a39b1df651b9","features":{},"yanked":false,"links":null}
