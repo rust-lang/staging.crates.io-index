@@ -1,0 +1,1 @@
+{"name":"bzip2","vers":"0.0.1","deps":[{"name":"libbz2-sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"1d0d3d755392d930fa1a868061254959cdb933c68fb5ef7a5aa94f39170371f1","features":{},"yanked":false}
