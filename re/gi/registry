@@ -1,0 +1,1 @@
+{"name":"registry","vers":"0.0.1-pre","deps":[{"name":"curl","req":"*","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"d4bd0d02a2a0b0e9098181bef74627686fceb483bb742089788c2e42e00a5584","features":{},"yanked":false}
