@@ -66,6 +66,7 @@ jobs:
           # the commit with GitHub's key. The sha of the previous `config.json`
           # is provided to make sure we don't override concurrent changes.
           curl \
+            --fail \
             -X PUT \
             -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
             -d "{
