@@ -3,6 +3,6 @@
 {"name":"crates-staging-test-tb","vers":"0.3.0","deps":[],"cksum":"c94bc05ec53f26825cbe0411a879dba1978252977e499737a260dfc6ac234f6d","features":{},"yanked":false,"links":null}
 {"name":"crates-staging-test-tb","vers":"0.4.0","deps":[],"cksum":"40815293746506abf943697d1ffb8272f055431f75f2993171427728336a2662","features":{},"yanked":false,"links":null}
 {"name":"crates-staging-test-tb","vers":"0.4.42","deps":[],"cksum":"8786f0f12e47c4ee40b8947aeeb71935412ce20d1c69893b7480dbd68996c14e","features":{},"yanked":false,"links":null}
-{"name":"crates-staging-test-tb","vers":"0.4.43","deps":[],"cksum":"2eaf27961cf06501d3c59bf864b574a65b8d806c84fcb0defe2c9452bd4cec98","features":{},"yanked":true,"links":null}
+{"name":"crates-staging-test-tb","vers":"0.4.43","deps":[],"cksum":"2eaf27961cf06501d3c59bf864b574a65b8d806c84fcb0defe2c9452bd4cec98","features":{},"yanked":false,"links":null}
 {"name":"crates-staging-test-tb","vers":"0.4.44","deps":[],"cksum":"4b0a651303897934ee3c4b46f7f0b21be7410ba406ad47a6323e43303b2b1a08","features":{},"yanked":false,"links":null}
 {"name":"crates-staging-test-tb","vers":"0.4.45","deps":[],"cksum":"7036e650836f8269ac8cbd95e17eb9a8bd7dacfd8c28f49295596e2c613621c2","features":{},"yanked":false,"links":null}
