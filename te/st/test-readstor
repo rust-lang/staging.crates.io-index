@@ -1,2 +1,3 @@
 {"name":"test-readstor","vers":"0.1.0","deps":[],"cksum":"3e4131c9c20d4b13391fac7c56544bb4aee01dceedaa3ef950d66a44743b7407","features":{},"yanked":false,"links":null}
 {"name":"test-readstor","vers":"0.3.2","deps":[],"cksum":"28df5af27f4f0182601bb78db48fcd9eb3491cce89b977bfd1837409fde0016d","features":{},"yanked":false,"links":null}
+{"name":"test-readstor","vers":"0.3.3","deps":[],"cksum":"c019475b266b9f4cca749a1e421db6d72ac9890be7e9a6073ad9f95ae053b4a4","features":{},"yanked":false,"links":null}
