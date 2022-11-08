@@ -2,3 +2,4 @@
 {"name":"arlosi-foo","vers":"0.1.1","deps":[],"cksum":"a2e1df6282f732455c50ed1729fdef536241432b0a0622d97949213256fbd3fa","features":{},"yanked":false,"links":null}
 {"name":"arlosi-foo","vers":"0.1.2","deps":[],"cksum":"30ea8a5b3425af37d9d840646da22bb7ea44e4db21c8d399cdd646f1ba833228","features":{},"yanked":false,"links":null}
 {"name":"arlosi-foo","vers":"0.1.3","deps":[],"cksum":"2f57c5d9b27b241a6494fde9fbffe82e2c155ade4ac40397401471e140e8bdfd","features":{},"yanked":false,"links":null}
+{"name":"arlosi-foo","vers":"0.1.4","deps":[],"cksum":"5cbec219a03765b27692a6bdbce7e0257d39dcccc839a272e8ce8581379a86fb","features":{},"yanked":false,"links":null}
