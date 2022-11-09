@@ -9,3 +9,4 @@
 {"name":"arlosi-foo","vers":"0.1.8","deps":[],"cksum":"46ac5656928a1b11876c58ca94e06d9ce7316c2531bc9f11e737b92cc5c349af","features":{},"yanked":false,"links":null}
 {"name":"arlosi-foo","vers":"0.1.9","deps":[],"cksum":"bce3d63f672a61bf77d1d956695c0b92032a565e93810f138cbb1c2596ea7756","features":{},"yanked":false,"links":null}
 {"name":"arlosi-foo","vers":"0.1.10","deps":[],"cksum":"a66ce234420f81fa9f4b6e6a38012e210e86d8d5f6a2481f2fb9ed509da4e8d2","features":{},"yanked":false,"links":null}
+{"name":"arlosi-foo","vers":"0.1.11","deps":[],"cksum":"d193af370e625644f2f5a6b0a360403e113f41a68e3a871b96bfffcda78c7d1c","features":{},"yanked":false,"links":null}
