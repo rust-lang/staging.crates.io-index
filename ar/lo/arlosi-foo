@@ -13,3 +13,4 @@
 {"name":"arlosi-foo","vers":"0.1.12","deps":[],"cksum":"fc938988d8474d995720b6c2278a970ef0b8ec028f612b4068cfc5e8b630933d","features":{},"yanked":false,"links":null}
 {"name":"arlosi-foo","vers":"0.1.13","deps":[],"cksum":"5eab828670b821e8596ddd32633a32f6bb9ee1b6a8663bac7b1aab8dbac44dd9","features":{},"yanked":false,"links":null}
 {"name":"arlosi-foo","vers":"0.1.14","deps":[{"name":"foo","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d4a08a87ae61daf6ad29065463c129209db8a7afbfd96a10a243ca43dc31a3d","features":{},"yanked":false,"links":null}
+{"name":"arlosi-foo","vers":"0.1.15","deps":[{"name":"foo","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"918c8a9424996926e1aa290d2e97f105dca04137158929416d16eacc2c9400d3","features":{},"yanked":false,"links":null}
