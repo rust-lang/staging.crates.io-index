@@ -8,3 +8,4 @@
 {"name":"mark-staging-test","vers":"0.1.7","deps":[],"cksum":"0168457cd53c55d532aee0168314e2cdbe1dd3d4b8a891ebf33838e46feb6a9f","features":{},"yanked":false,"links":null}
 {"name":"mark-staging-test","vers":"0.1.8","deps":[],"cksum":"b316191777526f979a7a503e93be507bcd6c0bb0c53a129d1b8ca5d094ecbc13","features":{},"yanked":false,"links":null}
 {"name":"mark-staging-test","vers":"0.1.9","deps":[],"cksum":"1b58f648ab57c6a5c3eedf956204fe8009707be6f7f2a69ac15c6064b49ce086","features":{},"yanked":false,"links":null}
+{"name":"mark-staging-test","vers":"0.1.10","deps":[],"cksum":"30092b6a8d5a9698bdab76d80726cbf7690209e22166c82ff6439b835e86b775","features":{},"yanked":false,"links":null}
