@@ -21,3 +21,4 @@
 {"name":"mark-staging-test","vers":"0.1.20","deps":[],"cksum":"5d98c9c9570354f26dbdd6b0b9dc1734f7d57bab5bd3f5c50caca3bcae9019b2","features":{},"yanked":false,"links":null}
 {"name":"mark-staging-test","vers":"0.1.21","deps":[],"cksum":"efe699f7d5c7be5e3e3a81145d556ce141cf704c4dac7e099a5957de11323021","features":{},"yanked":false,"links":null}
 {"name":"mark-staging-test","vers":"0.1.22","deps":[],"cksum":"cf240d03c125095c3abf688a795ed47ff46935499d611e6ba588424c3709bf4f","features":{},"yanked":false,"links":null}
+{"name":"mark-staging-test","vers":"0.1.23","deps":[],"cksum":"2909d32d952c931fa408c48398169853458abd198067dfcd8948d9acb39030f1","features":{},"yanked":false,"links":null}
