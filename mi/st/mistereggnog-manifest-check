@@ -5,3 +5,4 @@
 {"name":"mistereggnog-manifest-check","vers":"0.1.4","deps":[],"cksum":"44d996a604278d9a0342fb608f807bec8918fc6e0e23d8c439fc3a2fa799a0e4","features":{},"yanked":false,"links":null}
 {"name":"mistereggnog-manifest-check","vers":"0.1.5","deps":[],"cksum":"be6d60e3128676e55c6020a4d563ab87f10f736f2269d2fb2cf8d56456c4ee67","features":{},"yanked":false,"links":null}
 {"name":"mistereggnog-manifest-check","vers":"0.1.6","deps":[],"cksum":"66cd32f6ab5154f3aae95fcfde93821af2beced3f668b682a154b430f4d10dbf","features":{},"yanked":false,"links":null}
+{"name":"mistereggnog-manifest-check","vers":"0.1.7","deps":[],"cksum":"2f685e89f6701a6c0e2433c74f4ef36e22564a489a97df518f20bbe83203e3c7","features":{},"yanked":false,"links":null}
