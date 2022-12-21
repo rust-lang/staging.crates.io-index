@@ -1,0 +1,1 @@
+{"name":"libc","vers":"0.2.17","deps":[],"cksum":"ea5aa3e45dba18d742d20b48106d581ff52f252eda8e231e7a9ecb5a7b465a37","features":{"default":["use_std"],"use_std":[]},"yanked":false}

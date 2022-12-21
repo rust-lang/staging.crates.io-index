@@ -1,0 +1,1 @@
+{"name":"num_cpus","vers":"1.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71dd246340f53374ded24221a5b30f85da613c730c1ed7664b2c673a35b580ad","features":{},"yanked":false}
