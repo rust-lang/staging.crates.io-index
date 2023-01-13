@@ -1,4 +1,4 @@
-{"name":"normal_releases","vers":"0.0.1","deps":[],"cksum":"f7c90aa3741423d24b2da447a4f86d7a6c46829c7d30cc1183db14875a37c88a","features":{},"yanked":false,"links":null}
-{"name":"normal_releases","vers":"0.1.0","deps":[],"cksum":"a3a1481b9c5d945b48037547a89a7ad56e6ce4c8ee7c4b7b8224ed4453e348ad","features":{},"yanked":false,"links":null}
-{"name":"normal_releases","vers":"0.1.1","deps":[],"cksum":"9237d764d9c92ab8da906f02b77df4703904f4546c55a59d4750e687e6df490f","features":{},"yanked":false,"links":null}
-{"name":"normal_releases","vers":"0.2.0","deps":[],"cksum":"f43ff1a1e122436783fa240ece6bc49619516e5adcc5ae68a7a3cf5dc65959fb","features":{},"yanked":false,"links":null}
+{"name":"normal_releases","vers":"0.0.1","deps":[],"cksum":"f7c90aa3741423d24b2da447a4f86d7a6c46829c7d30cc1183db14875a37c88a","features":{},"yanked":false}
+{"name":"normal_releases","vers":"0.1.0","deps":[],"cksum":"a3a1481b9c5d945b48037547a89a7ad56e6ce4c8ee7c4b7b8224ed4453e348ad","features":{},"yanked":false}
+{"name":"normal_releases","vers":"0.1.1","deps":[],"cksum":"9237d764d9c92ab8da906f02b77df4703904f4546c55a59d4750e687e6df490f","features":{},"yanked":false}
+{"name":"normal_releases","vers":"0.2.0","deps":[],"cksum":"f43ff1a1e122436783fa240ece6bc49619516e5adcc5ae68a7a3cf5dc65959fb","features":{},"yanked":false}

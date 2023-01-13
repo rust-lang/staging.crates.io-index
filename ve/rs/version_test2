@@ -1,2 +1,2 @@
-{"name":"version_test2","vers":"0.1.0+post3","deps":[],"cksum":"2e03f30feed57469e3b96c96ef93e58049dd51875758af77a45b2a33130ecea4","features":{},"yanked":false,"links":null}
-{"name":"version_test2","vers":"0.1.0","deps":[],"cksum":"18262300240be94dbd9fb537554de7498e5888614c701fc027daeedb79aee190","features":{},"yanked":false,"links":null}
+{"name":"version_test2","vers":"0.1.0+post3","deps":[],"cksum":"2e03f30feed57469e3b96c96ef93e58049dd51875758af77a45b2a33130ecea4","features":{},"yanked":false}
+{"name":"version_test2","vers":"0.1.0","deps":[],"cksum":"18262300240be94dbd9fb537554de7498e5888614c701fc027daeedb79aee190","features":{},"yanked":false}
