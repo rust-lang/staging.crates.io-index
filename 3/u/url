@@ -1,0 +1,1 @@
+{"name":"url","vers":"0.1.0","deps":[{"name":"encoding","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a79e35602f1a48215c4c431c992a7c204c1ccb03f552f6047248f78eae937eb","features":{},"yanked":false}
