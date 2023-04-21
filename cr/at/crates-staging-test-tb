@@ -45,8 +45,8 @@
 {"name":"crates-staging-test-tb","vers":"0.5.81","deps":[],"cksum":"f6b40b0ed71b7dad22cfbdc64d63060b0c4caddc88d10cb0a8c49facd6f4b4d7","features":{},"yanked":false}
 {"name":"crates-staging-test-tb","vers":"0.5.82","deps":[],"cksum":"4405b75a3d0b9c01502b1b9b21e884d6ef9c2f4455d4271741e709c575dab2c2","features":{},"yanked":false}
 {"name":"crates-staging-test-tb","vers":"0.5.84","deps":[],"cksum":"6f6350f1113f9234a31b63290cd3037f699f0b11032805c34d1c9dab63a22365","features":{},"yanked":false}
-{"name":"crates-staging-test-tb","vers":"0.5.86","deps":[],"cksum":"d1ff1ec68bc58c0b976f5fc02b336c8bb252a26d1e721b6ec18f771720a189fa","features":{},"yanked":false}
 {"name":"crates-staging-test-tb","vers":"0.5.85","deps":[],"cksum":"13042b6b07a703e9a22c650d1d84b0830cf3f67d514d99b35bf5e404789c78f5","features":{},"yanked":false}
+{"name":"crates-staging-test-tb","vers":"0.5.86","deps":[],"cksum":"d1ff1ec68bc58c0b976f5fc02b336c8bb252a26d1e721b6ec18f771720a189fa","features":{},"yanked":false}
 {"name":"crates-staging-test-tb","vers":"0.5.87","deps":[],"cksum":"957b1f751c726e9ee1a02d7a6527a60b831c9cafb5184d3364ea9ddb4b02ad9e","features":{},"yanked":false}
 {"name":"crates-staging-test-tb","vers":"0.5.88","deps":[],"cksum":"64430d93452f11804f4924c4aa18ff6d24b2dea1b353b6952dfa13bdd71ee165","features":{},"yanked":false}
 {"name":"crates-staging-test-tb","vers":"0.5.89","deps":[],"cksum":"35556cbca9e041e916ffcd5725aa7e786bb5fdb80df10cadbf86a3302a93d05e","features":{},"yanked":false}
@@ -56,3 +56,4 @@
 {"name":"crates-staging-test-tb","vers":"0.5.93","deps":[],"cksum":"145a8afd70b8d971db5fc9f940322b74442d137dcfb17b56a8a101c865ab0fe1","features":{},"yanked":false}
 {"name":"crates-staging-test-tb","vers":"0.5.94","deps":[],"cksum":"96566ddf1b7a0b1bcff2db3cf94d60f1cdfe9bcb5401bcd258d6c442ac7006aa","features":{},"yanked":false}
 {"name":"crates-staging-test-tb","vers":"0.5.95","deps":[],"cksum":"300e20fb2c2cbd4b665f2c02c3bd5484ce14829a958a6ab6a24ae7937fd86549","features":{},"yanked":false}
+{"name":"crates-staging-test-tb","vers":"0.5.96","deps":[],"cksum":"fd038e3c9bb110fe426c1d8be79484ea489b21be855a2f6e59d06d2426fca738","features":{},"yanked":false}
