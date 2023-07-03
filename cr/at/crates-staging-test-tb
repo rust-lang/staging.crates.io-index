@@ -81,8 +81,6 @@
 {"name":"crates-staging-test-tb","vers":"0.69.16","deps":[],"cksum":"e54962b4b67302141fecda5ce0c08bc5060c1ddb9176758bd167483592fb897e","features":{},"yanked":false,"rust_version":"1.69"}
 {"name":"crates-staging-test-tb","vers":"0.69.17","deps":[],"cksum":"fb71afeaf90a8729c1e69c6c05164310f6f04ccbeb68ace37798c7ccd4784d06","features":{},"yanked":false,"rust_version":"1.69"}
 {"name":"crates-staging-test-tb","vers":"0.69.18+test","deps":[],"cksum":"d3d597839ac4fcbcbdc85db3548ab35924125a4f2f48c76af6941c9b14e1edef","features":{},"yanked":false,"rust_version":"1.69"}
-{"name":"crates-staging-test-tb","vers":"0.69.19","deps":[],"cksum":"a20d7dede37ab3ac2db11c3c7bb514827e67126a72fa6f11448066d204bc586e","features":{},"yanked":false,"rust_version":"1.69"}
-{"name":"crates-staging-test-tb","vers":"0.69.20","deps":[],"cksum":"28894b75f05e2658a5d72f047d9b169a39da17c0ac032d34ef17ef4bfefdfb1a","features":{},"yanked":false,"rust_version":"1.69"}
 {"name":"crates-staging-test-tb","vers":"0.69.21","deps":[],"cksum":"cc17faefe086b33657a23c352236ceeae7b74d97d3f18b2b6ea8845a02f7af01","features":{},"yanked":false,"rust_version":"1.69"}
 {"name":"crates-staging-test-tb","vers":"0.69.22+test","deps":[],"cksum":"023d56931f453216393aaee239f9721a5ff941120806f0c02e99fb58acf7a2ec","features":{},"yanked":false,"rust_version":"1.69"}
 {"name":"crates-staging-test-tb","vers":"0.69.23+test","deps":[],"cksum":"dda213c29a672aff88f3240785ee2f712c3ab8374a789c6073e4ec709754c674","features":{},"yanked":false,"rust_version":"1.69"}
