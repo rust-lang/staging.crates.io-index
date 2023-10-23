@@ -117,3 +117,4 @@
 {"name":"crates-staging-test-tb","vers":"0.69.53","deps":[],"cksum":"f397943d0e8d3498e4b1d7e6c3159854f1b5a7dfd71350f1ae75cb3f89aae40e","features":{},"yanked":false}
 {"name":"crates-staging-test-tb","vers":"0.69.54","deps":[],"cksum":"f168ec253684084162adb8581950fc731a97880a1c580fa862c0acb67a8afdb3","features":{},"yanked":false}
 {"name":"crates-staging-test-tb","vers":"0.69.55","deps":[],"cksum":"53fd569dcc32f1aca39294ec9a48ae9a4ff83a569c82992741bea982b2b75afd","features":{},"yanked":false}
+{"name":"crates-staging-test-tb","vers":"0.69.56","deps":[],"cksum":"cf4dc947cc813403e5c611507d1a9745e4ea46ba6e7d7b0f569bce4ae68e1a27","features":{},"yanked":false}
