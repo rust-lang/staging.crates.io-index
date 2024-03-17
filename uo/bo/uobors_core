@@ -1,2 +1,3 @@
 {"name":"uobors_core","vers":"0.0.0","deps":[],"cksum":"d203cca18d52b09330b6429122804a4b16ffdd73f3d8d5a08f3ada2376b7b8e3","features":{},"yanked":false}
 {"name":"uobors_core","vers":"0.0.1","deps":[],"cksum":"488620885cad9af3ee207518a86e0bcf7e7afbd0746fd6b8b5a30959c683ad07","features":{},"yanked":false}
+{"name":"uobors_core","vers":"0.0.2","deps":[],"cksum":"85f048097864b82c277fc7d6ea135952b14b07ed13c083fd0a2840ce509101d5","features":{},"yanked":false}
