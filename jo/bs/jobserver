@@ -1,0 +1,1 @@
+{"name":"jobserver","vers":"0.1.31","deps":[{"name":"libc","req":"^0.2.87","features":[],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"normal"}],"cksum":"eae0082d4612bb65147b95005e20ce5d17bd7154e483c77d08df7a9853a8f3f1","features":{},"yanked":false,"rust_version":"1.63"}
