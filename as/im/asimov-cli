@@ -1,0 +1,1 @@
+{"name":"asimov-cli","vers":"25.0.0-dev.2","deps":[],"cksum":"11504bb50d809faf0e99e6ebaaf5e910729abc33092813ee0690343f4dc8b5b1","features":{"all":[],"default":["all"],"unstable":["all"]},"yanked":false,"rust_version":"1.81"}
