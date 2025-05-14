@@ -1,1 +1,2 @@
 {"name":"can-i-haz-patch","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"729a0fe46a42d19619446fc82b69d85dfad48c49d19c9d26688d62e0da4f8c69","features":{},"yanked":false}
+{"name":"can-i-haz-patch","vers":"0.1.1","deps":[{"name":"rand","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e757b3ab65248a3f8657018be1d8f9a79f8ec61668a14a8c5615fa6eb97542ce","features":{},"yanked":false}
