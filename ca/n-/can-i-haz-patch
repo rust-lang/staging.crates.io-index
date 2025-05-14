@@ -1,0 +1,1 @@
+{"name":"can-i-haz-patch","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"729a0fe46a42d19619446fc82b69d85dfad48c49d19c9d26688d62e0da4f8c69","features":{},"yanked":false}
