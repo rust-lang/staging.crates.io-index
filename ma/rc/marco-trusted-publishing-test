@@ -5,3 +5,4 @@
 {"name":"marco-trusted-publishing-test","vers":"0.2.3","deps":[],"cksum":"124c5d310c35cd44418a758bf60f5d7634c0f9bb743291e6a65a2862ea20b5ac","features":{},"yanked":false}
 {"name":"marco-trusted-publishing-test","vers":"0.2.4","deps":[],"cksum":"9d7672a6200faebadec76ad40052a1a145e1ac0f2ec956e928e85fdaa09cc9d2","features":{},"yanked":false}
 {"name":"marco-trusted-publishing-test","vers":"0.2.6","deps":[],"cksum":"292d988360ea97655ccf59b25cdffa142ce538c3a041023f17e2a9cf081ab8c1","features":{},"yanked":false}
+{"name":"marco-trusted-publishing-test","vers":"0.2.7","deps":[],"cksum":"43dfefe518693c1656211a5159fb5f987dce0154651f934dda4a80df9bd0c65a","features":{},"yanked":false}
