@@ -1,2 +1,3 @@
 {"name":"lfsr-fibo","vers":"0.1.0","deps":[],"cksum":"e28b7b3fd6122b280a3ec4f3e805c7d9bddeb4970a41b7cee234f4d136630d3a","features":{},"yanked":false}
 {"name":"lfsr-fibo","vers":"0.1.1","deps":[],"cksum":"900948cc2c4cefea52cda722c7e7fc08ef76434e88c72e08ad63ae41fe6ae0a8","features":{},"yanked":true}
+{"name":"lfsr-fibo","vers":"0.1.2","deps":[],"cksum":"785ef28bd4d732361a18b775b771543c25903a4032d4c88d8dcfd57a894addd4","features":{},"yanked":false}
