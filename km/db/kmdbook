@@ -2,3 +2,4 @@
 {"name":"kmdbook","vers":"0.0.0-ourhardworkbythesewordsguardedpleasedontsteal","deps":[],"cksum":"179443711a2fb9d071f5c80d3814acbd23e5ea451f76ed8173c453e4c2723653","features":{},"yanked":false,"rust_version":"1.88.0"}
 {"name":"kmdbook","vers":"0.0.0-ourhardworkbythesewordsguardedpleasedontsteal.11","deps":[],"cksum":"ef7920762c9235b4951a007a954bc4dd9009e3d7afc89f601ffc9ddc0a29c81d","features":{},"yanked":false,"rust_version":"1.88.0"}
 {"name":"kmdbook","vers":"0.0.0-ourhardworkbythesewordsguardedpleasedontsteal.12","deps":[],"cksum":"ec52d7870433f57e819fac97c89a2347c852e5b47595b7410379a87155c915e9","features":{},"yanked":false,"rust_version":"1.88.0"}
+{"name":"kmdbook","vers":"0.0.0-ourhardworkbythesewordsguardedpleasedontsteal.13","deps":[],"cksum":"80b176a6ad27526eb87894bd5b1ebb07046c3c46a9a72f7743a84cf87191fb95","features":{},"yanked":false,"rust_version":"1.88.0"}
