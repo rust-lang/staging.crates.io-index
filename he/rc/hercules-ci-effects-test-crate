@@ -67,3 +67,4 @@
 {"name":"hercules-ci-effects-test-crate","vers":"0.1.1768243739","deps":[],"cksum":"a54628e474c34fd9f2052eef9e9447cfdaae974f1dfa2ab929d7ed3a121cc0fa","features":{},"yanked":false,"pubtime":"2026-01-12T18:49:00Z"}
 {"name":"hercules-ci-effects-test-crate","vers":"0.1.1768257510","deps":[],"cksum":"ad1fa0b5cdb625c0a04886f7a69fef579c2f3e065c1fd0a2b6f4ebcae53c2a96","features":{},"yanked":false,"pubtime":"2026-01-12T22:38:32Z"}
 {"name":"hercules-ci-effects-test-crate","vers":"0.1.1768258648","deps":[],"cksum":"0268cf8748631d6d700c910f38859046aae8a502862bac81334d490e33e0fe39","features":{},"yanked":false,"pubtime":"2026-01-12T22:57:30Z"}
+{"name":"hercules-ci-effects-test-crate","vers":"0.1.1768261899","deps":[],"cksum":"066eca5fd4993d825835506135414cd82ea31b7e72e921fe54e1bc4b00908bb8","features":{},"yanked":false,"pubtime":"2026-01-12T23:51:41Z"}
