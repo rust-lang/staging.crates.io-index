@@ -1,0 +1,1 @@
+{"name":"parity-staging-test-b","vers":"0.1.0","deps":[{"name":"parity-staging-test-a","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98d3fbabcc412988fcabf7b7630a09d4dffa4af5b7814ae1e82163880b97b3c8","features":{},"yanked":false,"pubtime":"2026-01-27T10:32:38Z"}
