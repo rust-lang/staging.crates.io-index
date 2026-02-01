@@ -1,4 +1,4 @@
-{"name":"crates-staging-test-tb","vers":"0.1.0","deps":[],"cksum":"69e79ff60bb9ec2e15fba58f527f8a91e1279ebabc55859cf31b80cdb243bd40","features":{},"yanked":false}
+{"name":"crates-staging-test-tb","vers":"0.1.0","deps":[],"cksum":"69e79ff60bb9ec2e15fba58f527f8a91e1279ebabc55859cf31b80cdb243bd40","features":{},"yanked":false,"pubtime":"2021-08-23T07:58:04Z"}
 {"name":"crates-staging-test-tb","vers":"0.2.0","deps":[],"cksum":"49e1a3c062b0969d37222d67ed207fa28c973b15ebf59a939003968a8abcbb24","features":{},"yanked":false,"pubtime":"2021-10-17T08:38:00Z"}
 {"name":"crates-staging-test-tb","vers":"0.3.0","deps":[],"cksum":"c94bc05ec53f26825cbe0411a879dba1978252977e499737a260dfc6ac234f6d","features":{},"yanked":false,"pubtime":"2021-12-27T08:46:21Z"}
 {"name":"crates-staging-test-tb","vers":"0.4.0","deps":[],"cksum":"40815293746506abf943697d1ffb8272f055431f75f2993171427728336a2662","features":{},"yanked":false,"pubtime":"2021-12-30T09:44:37Z"}
