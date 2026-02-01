@@ -1,8 +1,8 @@
-{"name":"has-many-versions","vers":"0.1.0","deps":[],"cksum":"3d8063ef5373c5c0cc6d3dc2b4ad7a74de618a4bb89d49c0a5366d5445ff7bff","features":{},"yanked":false}
-{"name":"has-many-versions","vers":"0.1.1","deps":[],"cksum":"d5829d4165f00574beabf583278d991d83cef948ec40daaaf05f89512d8e4581","features":{},"yanked":true}
-{"name":"has-many-versions","vers":"0.2.0","deps":[],"cksum":"98cca52064a155c0ee2dc251f2e589ffcae1e6d27dfae64bfff7d75967bdc7fe","features":{},"yanked":false}
-{"name":"has-many-versions","vers":"0.2.5","deps":[],"cksum":"b81c26b1259dc2a5f5133332d06b407e55c1ad2f0cbe261621012c8816366b9d","features":{},"yanked":false}
-{"name":"has-many-versions","vers":"0.1.2","deps":[],"cksum":"a305e29db03c78a58fd08b3b935870c906f90750b8ce9c176b7f9b93abe24a3d","features":{},"yanked":false}
-{"name":"has-many-versions","vers":"1.0.0","deps":[],"cksum":"dc57ad388912951f7869c8e427aaee7ef40e842171a94973d4dc93e5849543b8","features":{},"yanked":false}
-{"name":"has-many-versions","vers":"2.0.0","deps":[],"cksum":"d615dccd2dfbe9dc47eda087bfb0ebef9662bf058826ad941e7878eef6411057","features":{},"yanked":false}
-{"name":"has-many-versions","vers":"3.0.0-alpha","deps":[],"cksum":"e5f0f155bf778bbd57ae73f903453f9938d873e31a50ba7037ac68ce1b1e6b8d","features":{},"yanked":false}
+{"name":"has-many-versions","vers":"0.1.0","deps":[],"cksum":"3d8063ef5373c5c0cc6d3dc2b4ad7a74de618a4bb89d49c0a5366d5445ff7bff","features":{},"yanked":false,"pubtime":"2017-07-08T14:52:21Z"}
+{"name":"has-many-versions","vers":"0.1.1","deps":[],"cksum":"d5829d4165f00574beabf583278d991d83cef948ec40daaaf05f89512d8e4581","features":{},"yanked":true,"pubtime":"2017-07-08T14:52:39Z"}
+{"name":"has-many-versions","vers":"0.2.0","deps":[],"cksum":"98cca52064a155c0ee2dc251f2e589ffcae1e6d27dfae64bfff7d75967bdc7fe","features":{},"yanked":false,"pubtime":"2017-07-08T14:52:58Z"}
+{"name":"has-many-versions","vers":"0.2.5","deps":[],"cksum":"b81c26b1259dc2a5f5133332d06b407e55c1ad2f0cbe261621012c8816366b9d","features":{},"yanked":false,"pubtime":"2017-07-08T14:53:14Z"}
+{"name":"has-many-versions","vers":"0.1.2","deps":[],"cksum":"a305e29db03c78a58fd08b3b935870c906f90750b8ce9c176b7f9b93abe24a3d","features":{},"yanked":false,"pubtime":"2017-07-08T14:53:25Z"}
+{"name":"has-many-versions","vers":"1.0.0","deps":[],"cksum":"dc57ad388912951f7869c8e427aaee7ef40e842171a94973d4dc93e5849543b8","features":{},"yanked":false,"pubtime":"2017-07-08T14:53:56Z"}
+{"name":"has-many-versions","vers":"2.0.0","deps":[],"cksum":"d615dccd2dfbe9dc47eda087bfb0ebef9662bf058826ad941e7878eef6411057","features":{},"yanked":false,"pubtime":"2017-07-08T14:54:22Z"}
+{"name":"has-many-versions","vers":"3.0.0-alpha","deps":[],"cksum":"e5f0f155bf778bbd57ae73f903453f9938d873e31a50ba7037ac68ce1b1e6b8d","features":{},"yanked":false,"pubtime":"2017-07-08T14:54:39Z"}

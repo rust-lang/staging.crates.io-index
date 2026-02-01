@@ -1,2 +1,2 @@
-{"name":"resolver-3","vers":"0.1.1","deps":[],"cksum":"058b875863eff521f30fe8b670472f2b591cffd8d1fbfb6c15e60986a051fd4e","features":{},"yanked":false}
-{"name":"resolver-3","vers":"0.1.2","deps":[],"cksum":"7a9bb7ddde7a4785f7a6885bd9f8cfc489c729120fc0be2f1679e37f77fbe574","features":{},"yanked":false}
+{"name":"resolver-3","vers":"0.1.1","deps":[],"cksum":"058b875863eff521f30fe8b670472f2b591cffd8d1fbfb6c15e60986a051fd4e","features":{},"yanked":false,"pubtime":"2025-01-09T20:45:53Z"}
+{"name":"resolver-3","vers":"0.1.2","deps":[],"cksum":"7a9bb7ddde7a4785f7a6885bd9f8cfc489c729120fc0be2f1679e37f77fbe574","features":{},"yanked":false,"pubtime":"2025-01-09T20:53:07Z"}

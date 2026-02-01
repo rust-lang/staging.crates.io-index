@@ -1,2 +1,2 @@
-{"name":"uobors_infrastructure_database_seaorm","vers":"0.0.0","deps":[],"cksum":"0d9f4915e78bbf72a3a1cd75535c285947fa938b483ea8a905ece9fbf25c06e4","features":{},"yanked":false}
-{"name":"uobors_infrastructure_database_seaorm","vers":"0.0.1","deps":[],"cksum":"79ae020c4e9c2c71b89bb29606f3c9ba2269dcfa58b80c0b984ef781403a409c","features":{},"yanked":false}
+{"name":"uobors_infrastructure_database_seaorm","vers":"0.0.0","deps":[],"cksum":"0d9f4915e78bbf72a3a1cd75535c285947fa938b483ea8a905ece9fbf25c06e4","features":{},"yanked":false,"pubtime":"2024-03-17T11:29:09Z"}
+{"name":"uobors_infrastructure_database_seaorm","vers":"0.0.1","deps":[],"cksum":"79ae020c4e9c2c71b89bb29606f3c9ba2269dcfa58b80c0b984ef781403a409c","features":{},"yanked":false,"pubtime":"2024-03-17T11:42:30Z"}

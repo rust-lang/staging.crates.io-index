@@ -1,3 +1,3 @@
-{"name":"removeme_clippy_utils","vers":"0.0.1","deps":[],"cksum":"8ce1e10812ba5966d00743bab4db04215d8faabe9ae39c6b1571ca3b145bf460","features":{},"yanked":false}
-{"name":"removeme_clippy_utils","vers":"0.0.0","deps":[],"cksum":"198e7c31468c1b39ce92802c329926c9a2cf1e63460588e812573ec227a8ba6a","features":{},"yanked":false}
-{"name":"removeme_clippy_utils","vers":"0.0.3","deps":[],"cksum":"cdbb479c2fc949f522250f659bfa9f0c6ebb9aadeb2357b15d52f410e31ff13b","features":{},"yanked":false}
+{"name":"removeme_clippy_utils","vers":"0.0.1","deps":[],"cksum":"8ce1e10812ba5966d00743bab4db04215d8faabe9ae39c6b1571ca3b145bf460","features":{},"yanked":false,"pubtime":"2024-07-16T12:45:30Z"}
+{"name":"removeme_clippy_utils","vers":"0.0.0","deps":[],"cksum":"198e7c31468c1b39ce92802c329926c9a2cf1e63460588e812573ec227a8ba6a","features":{},"yanked":false,"pubtime":"2024-07-16T12:52:17Z"}
+{"name":"removeme_clippy_utils","vers":"0.0.3","deps":[],"cksum":"cdbb479c2fc949f522250f659bfa9f0c6ebb9aadeb2357b15d52f410e31ff13b","features":{},"yanked":false,"pubtime":"2024-07-16T13:07:12Z"}

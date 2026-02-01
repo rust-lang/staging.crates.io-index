@@ -1,2 +1,2 @@
-{"name":"purl","vers":"0.1.0","deps":[],"cksum":"20e761b9b4088095052d457b52e319e4e99e76e6f0ee835a6c3aa22df0fabba4","features":{"default":["package-type"],"package-type":[]},"yanked":false}
-{"name":"purl","vers":"0.1.1","deps":[],"cksum":"47c7f0c101fa1c5d53d9397775dbed149d7b077bc8edd375fc60c203a2cfe67b","features":{"default":["package-type"],"package-type":[]},"yanked":false}
+{"name":"purl","vers":"0.1.0","deps":[],"cksum":"20e761b9b4088095052d457b52e319e4e99e76e6f0ee835a6c3aa22df0fabba4","features":{"default":["package-type"],"package-type":[]},"yanked":false,"pubtime":"2023-06-26T19:04:33Z"}
+{"name":"purl","vers":"0.1.1","deps":[],"cksum":"47c7f0c101fa1c5d53d9397775dbed149d7b077bc8edd375fc60c203a2cfe67b","features":{"default":["package-type"],"package-type":[]},"yanked":false,"pubtime":"2023-06-26T19:16:36Z"}

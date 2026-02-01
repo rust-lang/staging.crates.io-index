@@ -1,2 +1,2 @@
-{"name":"egg-man","vers":"0.1.0-alpha.0","deps":[],"cksum":"c99af20891798846f966164610c6f178321addd9fc10b0c1f3a893acac972a26","features":{},"yanked":true}
-{"name":"egg-man","vers":"0.1.0-alpha.1","deps":[],"cksum":"2ee6e056b87d709cc417a1211ffb1bdaa0c7aa2e3872326b4cca92cdf767758f","features":{},"yanked":false}
+{"name":"egg-man","vers":"0.1.0-alpha.0","deps":[],"cksum":"c99af20891798846f966164610c6f178321addd9fc10b0c1f3a893acac972a26","features":{},"yanked":true,"pubtime":"2019-11-14T02:59:09Z"}
+{"name":"egg-man","vers":"0.1.0-alpha.1","deps":[],"cksum":"2ee6e056b87d709cc417a1211ffb1bdaa0c7aa2e3872326b4cca92cdf767758f","features":{},"yanked":false,"pubtime":"2020-07-26T16:36:25Z"}

@@ -1,1 +1,1 @@
-{"name":"tempdir","vers":"0.3.5","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e807ee6cb2a19dad0ecea8cf83961b77496d2f48250befb129b8191888a17c9f","features":{},"yanked":false}
+{"name":"tempdir","vers":"0.3.5","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e807ee6cb2a19dad0ecea8cf83961b77496d2f48250befb129b8191888a17c9f","features":{},"yanked":false,"pubtime":"2016-11-11T21:25:53Z"}
