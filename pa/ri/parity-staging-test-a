@@ -1,2 +1,2 @@
-{"name":"parity-staging-test-a","vers":"0.1.0","deps":[],"cksum":"bada79bcc6dd01150f411f46e7bd85ed78b118c1bba55122f9254bad10a7776e","features":{},"yanked":false,"pubtime":"2026-01-27T09:08:37Z"}
+{"name":"parity-staging-test-a","vers":"0.1.0","deps":[],"cksum":"bada79bcc6dd01150f411f46e7bd85ed78b118c1bba55122f9254bad10a7776e","features":{},"yanked":true,"pubtime":"2026-01-27T09:08:37Z"}
 {"name":"parity-staging-test-a","vers":"0.2.0","deps":[],"cksum":"ef54fe14f3ca7c8a2ac0c85452aa5f993dbe3732a4a27f4b85824bb39e152aee","features":{},"yanked":false,"pubtime":"2026-01-27T09:10:44Z"}
