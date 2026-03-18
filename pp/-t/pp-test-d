@@ -1,0 +1,1 @@
+{"name":"pp-test-d","vers":"0.2.0","deps":[{"name":"pp-test-a","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6eb4372c39b855bae1e84bc86fb5f923f6ee79d4304021bf4712ebfe5627a159","features":{},"yanked":false,"pubtime":"2026-03-18T09:48:51Z"}
