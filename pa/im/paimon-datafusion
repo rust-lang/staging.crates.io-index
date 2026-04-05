@@ -1,2 +1,3 @@
 {"name":"paimon-datafusion","vers":"0.0.0","deps":[],"cksum":"c5075ffd37f622bde5f7430ce1be4f452ee9bc7c5d2ad5da4a329bb9f5d21d01","features":{},"yanked":false,"pubtime":"2026-04-05T13:25:15Z"}
 {"name":"paimon-datafusion","vers":"0.0.1","deps":[],"cksum":"acea696227892a17006420904ec36085e7e24863cdbceb1f9f0894c740540064","features":{},"yanked":false,"rust_version":"1.86.0","pubtime":"2026-04-05T13:27:19Z"}
+{"name":"paimon-datafusion","vers":"0.0.2","deps":[],"cksum":"6bb1e394a6074f2125ba3fbec39b8f5b3cf6f305322ea3fa175ad22bf13c5402","features":{},"yanked":false,"rust_version":"1.86.0","pubtime":"2026-04-05T13:32:20Z"}
