@@ -1,1 +1,2 @@
 {"name":"paimon","vers":"0.0.0","deps":[],"cksum":"32c002b182e79b4b206526c9aa16b7c4278f01a119b79b17326b42a2f05327fe","features":{},"yanked":false,"pubtime":"2026-04-05T13:24:48Z"}
+{"name":"paimon","vers":"0.0.1","deps":[],"cksum":"283cec99fe920452b3436cfc2726b987266b9d99acfabab5572f45fa76ed0c6a","features":{},"yanked":false,"rust_version":"1.86.0","pubtime":"2026-04-05T13:27:02Z"}
