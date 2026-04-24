@@ -1,0 +1,1 @@
+{"name":"docopt_macros","vers":"0.6.5","deps":[{"name":"docopt","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"876790c7bbaf78cf519f3979abbf37cb8ec39a01419e9e29d7427ee257be2b3e","features":{},"yanked":false}
