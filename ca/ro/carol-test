@@ -23,3 +23,4 @@
 {"name":"carol-test","vers":"1.0.26","deps":[],"cksum":"c241cd77c3723ccf1aa453f169ee60c0a888344da504bee0142adb859092acb4","features":{},"yanked":false,"pubtime":"2019-11-01T22:05:42Z"}
 {"name":"carol-test","vers":"0.3.6","deps":[],"cksum":"32e69a15079e49e6ad9e6973864142bb4beed32d021acb9dd9b025cc23d591fb","features":{},"yanked":false,"pubtime":"2020-01-27T14:33:22Z"}
 {"name":"carol-test","vers":"1.1.1","deps":[],"cksum":"cd701c67a40aaf855ef9ffae66e7d1dc6a21d5a53f604349c8aa263f705c2cdc","features":{},"yanked":false,"pubtime":"2021-03-18T14:35:13Z"}
+{"name":"carol-test","vers":"1.2.0","deps":[],"cksum":"f3305022bc2e5ad297a47947784c43165959487fad012122d8cb4c7ce2033c3a","features":{},"yanked":false,"pubtime":"2026-10-29T17:03:42Z"}
