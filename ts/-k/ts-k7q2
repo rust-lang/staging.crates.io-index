@@ -1,0 +1,1 @@
+{"name":"ts-k7q2","vers":"0.1.0","deps":[{"name":"inner","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"ts-k7q2-core"}],"cksum":"f3bad1a4e57eaef25b1968a8315ee269e63a65385288c622931c44de9c3a4b39","features":{},"yanked":false,"pubtime":"2026-10-30T17:07:55Z"}
