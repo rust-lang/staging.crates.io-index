@@ -1,1 +1,2 @@
 {"name":"nptest_dep3","vers":"0.3.0","deps":[],"cksum":"449b1aa157e2055c9e774723417ecea2b35c7b4c7010a81b73dcff9801bbd769","features":{},"yanked":false,"pubtime":"2026-11-17T01:09:27Z"}
+{"name":"nptest_dep3","vers":"0.4.0","deps":[{"name":"nptest_dep5","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6702731ddfc3b9748ab75dc5122e790445c0dd850e09a1270bcb1d92069fc587","features":{},"yanked":false,"pubtime":"2026-11-17T01:13:52Z"}
