@@ -1,2 +1,3 @@
 {"name":"nptest_dep5","vers":"0.3.0","deps":[],"cksum":"b56f3b2bd8a4a26a9d8d6afe7181ddc4955c03f27d836a976d5132b47c8b4b88","features":{},"yanked":false,"pubtime":"2026-11-17T01:09:27Z"}
 {"name":"nptest_dep5","vers":"0.4.0","deps":[],"cksum":"7536fed654307411a05ea1340967a099e34e2195163bf49d245c8d652b2045e3","features":{},"yanked":false,"pubtime":"2026-11-17T01:13:41Z"}
+{"name":"nptest_dep5","vers":"0.5.0","deps":[],"cksum":"bdd2e08feeadcb4ebd35b0325dd70fe854389eb5ba61f222e170b35b420336ca","features":{},"yanked":false,"pubtime":"2026-11-17T01:15:07Z"}
