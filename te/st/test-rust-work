@@ -1,1 +1,2 @@
 {"name":"test-rust-work","vers":"0.0.0","deps":[],"cksum":"00765eb2ae4d182cc1dfc58cb2f46a281b1bdf5716af1bf72f3089c3b46d9d2b","features":{},"yanked":false,"pubtime":"2026-11-28T16:41:37Z"}
+{"name":"test-rust-work","vers":"0.2.0","deps":[],"cksum":"c89d9a355c97f6e7b7e5fa5fde5b991f0a683233de8138ad644b52791e12b9b9","features":{},"yanked":false,"pubtime":"2026-11-28T17:28:28Z"}
